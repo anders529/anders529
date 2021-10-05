@@ -17,6 +17,7 @@
 
 <!-- [website]: https://anderseana.com -->
 [linkedin]: https://www.linkedin.com/in/aaron-a-95557b190/
+[twitter]: https://www.twitter.com/anders529
 
 ### Languages and Tools:
 
