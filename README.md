@@ -1,36 +1,12 @@
-### Hi, I'm Aaron! 👋
-#### A Full-Stack Web Developer
+### Hi there 👋, My name is Aaron
+#### I'm a Web Developer!
+Web Developer, Still learning new things everyday!
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning NodeJS, React and Python!
-- 📫 How to reach me by email: aaron@andersena.com
+Skills: REACT / JS / NodeJS / Express / HTML / CSS
 
-### Connect with me:
+- 🔭 I’m currently working on Side Projects 
+- 📫 How to reach me: aaron@andersena.com 
+- ⚡ Fun fact: I live in they Florida Keys! 
 
-<!-- [<img align="left" alt="anders529 portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
----
-
-<!-- [website]: https://anderseana.com -->
-[linkedin]: https://www.linkedin.com/in/aaron-a-95557b190/
-[twitter]: https://www.twitter.com/anders529
-
-### Languages and Tools:
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anders529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anders529/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anders529)
