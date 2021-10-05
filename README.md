@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning NodeJS, React and Python!
-- 📫 How to reach me by email: aaronandersen@zohomail.com 
+- 📫 How to reach me by email: aaron@andersena.com
 
 ### Connect with me:
 
